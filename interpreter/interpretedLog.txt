@@ -1,0 +1,14 @@
+email
+--SHIFT
+@email.com
+--ENTER
+hjbvojerborwvbejrbvjbervboebrvberbovoejhrbvojb
+--ENTER
+vers
+--BACKSPACE
+ystrong
+--SHIFT
+Passowr
+--BACKSPACE
+--BACKSPACE
+--BACKSPACE
